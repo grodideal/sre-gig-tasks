@@ -1,4 +1,4 @@
-# Ga Array Operations
+# GO Array Operations
 This Go program demonstrates basic array manipulation and iteration. It performs the following operations:
 
 ## 1. Menu Array
